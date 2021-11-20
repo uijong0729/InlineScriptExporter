@@ -1,5 +1,7 @@
 ﻿#include <iostream>
-#include "FilerLoader.cpp"
+#include "FilerLoader.h"
+
+using namespace file;
 
 int main()
 {
