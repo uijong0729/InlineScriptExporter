@@ -1,8 +1,6 @@
 ﻿#include <iostream>
 #include "FilerLoader.h"
 
-using namespace file;
-
 int main()
 {
     FilerLoader fileLoader;
